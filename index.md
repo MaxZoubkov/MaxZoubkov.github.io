@@ -17,7 +17,6 @@ Hobbies:
 
 
 [LinkedIn](https://www.linkedin.com/in/maxzoubkov/)
-[Github](https://github.com/MaxZoubkov)
 [Resume](https://docs.google.com/document/d/1IAtQZx5HSrzpv43ZZfEM9Qxs3-VIwJM6PDAuIINCXO8)
 
 [A Recent Project](https://github.com/MaxZoubkov/CSCI-362-Database-Project)
